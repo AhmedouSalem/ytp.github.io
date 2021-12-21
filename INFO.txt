@@ -1,0 +1,32 @@
+﻿
+
+ASSALAM ALAYKOUM 
+
+je suis le developpeur de ce petit projet.
+Pour pouvoir travailler avec ce systeme : Annuaire téléphonique pour les établissements,
+
+1-Créer une base de données dans phpmyadimn telque telque sur l'option sql ecrire puis exécuter la réquette suivante: CREATE DATABASE `bd annuaire téléphonique pour les établissemenets`;
+  après avoir créer la base de données vous pouvez tout simplement séléctionner la base puis cliquer sur importer et vous selectionnez votre fichier de type SQL puis executer
+ou bien vous faire comme suit :
+2-Ouvrir le fichier bd_annuaire_t__l__phonique_pour_les___tablissements.sql
+3-copier le contenue de ce fichier 
+4-lancer xampp ou wampserver
+5-sur l'option sql de phpmyadmin,
+6-coller le contenue du fichier : bd_annuaire_t__l__phonique_pour_les___tablissements.sql
+7-cliquer sur executer
+
+                              ENJOY
+pour tester le systeme 
+a)Lancer un navigateur 
+lancer le fichier : "index.php" faitte attention  dans cette pase la button inscrir elle doit être sécurisez 
+                    
+                      info de la connexion
+                     -----------------------
+                     email : ahmedou@gmail.com
+                     mot de passe : Mintity
+---------------------------------------------------------------------------
+              Information du developpeur 
+Nom : Ahmedou Aboubécrine Salem 
+E-mail :ahmedou8salem@gmail.com                                    
+-------------------------------------------------------------------01/08/2021--------
+لا تنسونا من صالح الدعاء
